@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shortly/static/css/main.7abe6082.chunk.css",
+    "main.js": "/shortly/static/js/main.8e1f931d.chunk.js",
+    "main.js.map": "/shortly/static/js/main.8e1f931d.chunk.js.map",
+    "runtime-main.js": "/shortly/static/js/runtime-main.d9c81915.js",
+    "runtime-main.js.map": "/shortly/static/js/runtime-main.d9c81915.js.map",
+    "static/js/2.a826b48c.chunk.js": "/shortly/static/js/2.a826b48c.chunk.js",
+    "static/js/2.a826b48c.chunk.js.map": "/shortly/static/js/2.a826b48c.chunk.js.map",
+    "index.html": "/shortly/index.html",
+    "static/css/main.7abe6082.chunk.css.map": "/shortly/static/css/main.7abe6082.chunk.css.map",
+    "static/js/2.a826b48c.chunk.js.LICENSE.txt": "/shortly/static/js/2.a826b48c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/shortly/static/media/bg-shorten-desktop.0d9742f4.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/shortly/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/shortly/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/shortly/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "/shortly/static/media/illustration-working.c9b5ef54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9c81915.js",
+    "static/js/2.a826b48c.chunk.js",
+    "static/css/main.7abe6082.chunk.css",
+    "static/js/main.8e1f931d.chunk.js"
+  ]
+}
